@@ -1,0 +1,5 @@
+projectKey=webServis
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/webServis
+ceTaskId=AVPSkMT726Wn8IPTVm1B
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVPSkMT726Wn8IPTVm1B
